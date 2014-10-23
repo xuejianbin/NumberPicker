@@ -1,0 +1,8 @@
+<resources>
+
+    <dimen name="kno_path_title_size">20sp</dimen>
+    <dimen name="kno_path_margin_middle">20sp</dimen>
+    <dimen name="kno_path_margin_side">20sp</dimen>
+    <dimen name="kno_path_text_width">150sp</dimen>
+
+</resources>
